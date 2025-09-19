@@ -15,7 +15,7 @@ git clone https://github.com/OhioIoT-Examples/ESP32-WiFi_Final-Checklist.git
 This codebase is structrued as a fully ready PlatformIO project, so users can git pull and then immediately compile (after adding credentials).
 
 - Change the WiFi credentials in *lib/creds/creds.h*.
-- To turn off logging, delete/comment-out the `log_events()` and `log_status()` function calls.
+- To turn off logging, delete/comment-out the `wifi_tools.log_events()` and `wifi_tools.log_status()` function calls.
 - Compile and run
 
 
