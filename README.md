@@ -1,4 +1,4 @@
-# WiFi: Get Your Creds Out <img src="https://www.ohioiot.com/images/logo.jpg" width=40px >
+# WiFi: Get Your Creds Out <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/images/logo.jpg" width="40" ></a>
 
 ## Overview
 
