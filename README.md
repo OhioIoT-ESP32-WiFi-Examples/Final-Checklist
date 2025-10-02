@@ -7,7 +7,7 @@ This code was generated in the YouTube video [ESP32 WiFi: Final Checklist](https
 
 ## Getting Started
 ```
-git clone https://github.com/OhioIoT-Examples/ESP32-WiFi_Final-Checklist.git
+git clone https://github.com/OhioIoT-ESP32-WiFi-Examples/Final-Checklist.git
 ```
 
 
