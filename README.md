@@ -32,4 +32,4 @@ This codebase is structrued as a fully ready PlatformIO project, so users can gi
 
 
 <br>
-*OhioIoT is an IoT platform designed for small-scale IoT projects.  For more, check out our webiste at [www.OhioIoT.com](https://www.ohioiot.com).*
+*OhioIoT is an IoT platform designed for small-scale IoT projects.  For more, check out our website at [www.OhioIoT.com](https://www.ohioiot.com).*
