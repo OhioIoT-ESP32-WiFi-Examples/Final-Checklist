@@ -2,7 +2,7 @@
 
 ## Overview
 
-This code was generated in the YouTube video [ESP32 WiFi: Final Checklist](https://youtu.be/u-LuPmYCf3M), the final video in a series on building a next-level WiFi library for ESP32 IoT developers.  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
+This code was generated in the YouTube video [ESP32 WiFi: Your Next-Level Library](https://www.youtube.com/watch?v=He9YtNsHtYU), the final video in a series on building a next-level WiFi library for ESP32 IoT developers.  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
 
 
 ## Getting Started
