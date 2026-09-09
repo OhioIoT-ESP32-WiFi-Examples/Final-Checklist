@@ -1,4 +1,4 @@
-# WiFi: Final Checklist <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/images/logo.jpg" width="40" ></a>
+# WiFi: Final Checklist <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
 
 ## Overview
 
