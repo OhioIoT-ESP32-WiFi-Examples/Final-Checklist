@@ -26,7 +26,7 @@ This codebase is structrued as a fully ready PlatformIO project, so users can gi
 - Copy the *checklist/* folder to your Arduino projects folder
 - Edit the credentials in *checklist/creds.h*.
 
-<image src="https://www.ohioiot.com/images/arduino_ide_friendly.png" width=60px ></image>
+<image src="https://www.ohioiot.com/arduino_ide_friendly.png" width=60px ></image>
 
 
 ## About
